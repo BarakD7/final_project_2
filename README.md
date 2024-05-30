@@ -1,8 +1,3 @@
-# Final Year Project Documentation
-> This Is Final Year Project Based On Blockchain And AI
-<img alt="Screenshot" src="./public/img/screenshot.png" height="75%" width="75%"/>
-
-
 ## Overview
 
 The application uses the following components:
